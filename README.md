@@ -1,2 +1,3 @@
-# ml-evaluation
-notebooks around my ML evaluation experiments.
+# Machine Learning evaluation notebooks
+
+TBA
